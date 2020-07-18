@@ -1,0 +1,11 @@
+---
+title: "Social network isolation mediates associations between risky symptoms and substance use in the high school transition"
+date: 2020-01-01
+publishDate: 2020-07-18T21:23:58.135937Z
+authors: ["Andrea M Hussong", "Susan T Ennett", "Daniel M McNeish", "Veronica T Cole", "Nisha C Gottfredson", "W Andrew Rothenberg", "Robert W Faris"]
+publication_types: ["2"]
+abstract: ""
+featured: false
+publication: "*Development and psychopathology*"
+---
+

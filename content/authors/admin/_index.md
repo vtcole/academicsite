@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my academic page! Here you can find details about my research and teaching, and you can learn a bit about the group I work with (the MAD Lab) at Wake Forest University. 
-
-My research focuses on the application of latent variable models to the measurement of psychopathology and health risk behaviors in adolescence and early adulthood. As a quantitative psychologist, I generally do statistical analyses on pre-existing datasets in order to help untangle the complex set of factors which drive people toward and away from healthy behaviors across development.
+Welcome to my academic page! Here you can find details about my research and teaching, and you can learn a bit about the group I work with (the MAD Lab) at Wake Forest University. My research focuses on the application of latent variable models to the measurement of psychopathology and health risk behaviors in adolescence and early adulthood. As a quantitative psychologist, I generally do statistical analyses on pre-existing datasets in order to help untangle the complex set of factors which drive people toward and away from healthy behaviors across development.

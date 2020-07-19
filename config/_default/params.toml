@@ -93,14 +93,14 @@ phone = "336 758 7144"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1834 Wake Forest Road", city = "Winston-Salem", region = "NC", postcode = "27109", country = "United States", country_code = "US"}
+address = {street = "Greene Hall 470, 1834 Wake Forest Road", city = "Winston-Salem", region = "NC", postcode = "27109", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "36.133949", longitude = "-80.279130"}
 
 # Directions for visitors to locate you.
-directions = "Take the elevator to the fourth floor; take a left out of the elevator, then an immediate left to go down the long hall. Mine is the first office on the right!"
+directions = "Take the elevator to the fourth floor; take a left out of the elevator, then an immediate left to go down the long hall. My office (470) is the first on the right!"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

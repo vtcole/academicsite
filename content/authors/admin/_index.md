@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-My research focuses on the application of latent variable models to the measurement of psychopathology and health risk behaviors in adolescence and early adulthood. As a quantitative psychologist, I generally do statistical analyses on pre-existing datasets in order to help untangle the complex set of factors which drive people toward and away from healthy outcomes.
+My research focuses on the application of latent variable models to the measurement of psychopathology and health risk behaviors in adolescence and early adulthood. As a quantitative psychologist, I generally do statistical analyses on pre-existing datasets in order to help untangle the complex set of factors which drive people toward and away from healthy behaviors across development.

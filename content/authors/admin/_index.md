@@ -69,6 +69,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Welcome to my academic website! Here you can learn a bit about my research and teaching. I work with students at the undergraduate and graduate levels to study novel ways of measuring human experiences across the life course, an effort we call the Measurement Across Development (MAD) Lab. A
+Welcome to my academic website! Here you can learn a bit about my research and teaching. I work with students at the undergraduate and graduate levels to study novel ways of measuring human experiences across the life course, an effort we call the Measurement Across Development (MAD) Lab. 
 
 My collaborative research focuses on the application of latent variable models to the measurement of psychopathology and health risk behaviors in adolescence and early adulthood. As a quantitative psychologist, I generally do statistical analyses on pre-existing datasets in order to help untangle the complex set of factors which drive people toward and away from healthy behaviors across development.
